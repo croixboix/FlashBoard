@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlashBoard</string>
+    <string name="speed">999</string>
+    <string name="log_data">Log Data</string>
+    <string name="mph">MPH</string>
+    <string name="map_view">Map View</string>
+    <string name="clear_stored_info">Clear Stored Info</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyB4mNhHEEEJxgTx8_93i6ZX5KB0oZuKbS8</string>
+    <string name="start_app">Start App!</string>
+    <string name="accept_perms">Accept permissions before starting!</string>
+</resources>
