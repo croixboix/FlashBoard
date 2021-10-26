@@ -4,6 +4,9 @@
 * Andrew Iliescu
 * Sam Jansen
 
+![Screenshot_20211025-202504](https://user-images.githubusercontent.com/55893587/138793047-30ff0f39-6878-4e83-b2e4-a9c6dd145a8f.png)
+
+
 ## Information
 This app was created by Andrew Iliescu and Sam Jansen. Its
 purpose is to provide users with accurate real time data of
